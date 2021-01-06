@@ -1,0 +1,11 @@
+The 'Sales History.csv' dataset originally contained sensitive customer and salesperson information. 
+
+As a result, the following columns were removed from the dataset before being uploaded to this repository for their privacy:
+
+* BuyerFullName
+* BuyerHomeAddress
+* BuyerHomePhoneNumber
+* BuyerBusinessPhoneNumber
+* BuyerEmailAddress
+* SalesPersonFullName
+* SalesPerson2FullName
