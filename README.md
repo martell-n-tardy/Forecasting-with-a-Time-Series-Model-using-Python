@@ -1,4 +1,4 @@
-# Releasing A Successful Video Game #
+# Demand Forecasting Using Time Series Analysis #
 An end-to-end capstone project completed for a prior employer, Lexus of Mishawaka, displaying a deep understanding of time series analysis and forecast modeling. The goal of this forecast model is to predict vehicle demand 24 months into the future using 12+ years of provided historical sales data. 
 
 ## Contents ##
