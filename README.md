@@ -23,4 +23,4 @@ To solve this business problem Lexus of Mishawaka will be training and deploying
 * Q2: Does the time series show any consistent pattern? 
 * Q3: Is there seasonality or a significant trend?
 * Q4: Based on what is observed in response to Q4, what kind of model is appropriate for this time series?
-* Is there any association between the years available and the number of units sold yearly?
+* Q5: Is there any association between the years available and the number of units sold yearly?
